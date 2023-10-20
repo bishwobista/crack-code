@@ -12,19 +12,19 @@ Crack Code is the home to crack all the coding questions. We welcome contributio
 git clone https://github.com/bishwobista/crack-code.git
 ```
 
-3. Create a new branch for your changes.
-    
+3.  Create a new branch for your changes.
+
     ```bash
     git checkout -b <branch-name>
     ```
 
-4. Make your changes and commit them.
+4.  Make your changes and commit them.
 
-5. Push your changes to your forked repository.
-    
-        ```bash
-        git push origin <branch-name>
-        ```
+5.  Push your changes to your forked repository.
+
+    ```bash
+    git push origin <branch-name>
+    ```
 
 ## Code of Conduct
 
